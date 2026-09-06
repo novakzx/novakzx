@@ -8,11 +8,11 @@ Building modern digital experiences with **clean code, strong architecture and i
 
 <br />
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&label=Followers" />
+<a href="https://github.com/novakzx">
+  <img src="https://img.shields.io/github/followers/novakzx?style=flat-square&label=Followers" />
 </a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?style=flat-square&label=Stars" />
+<a href="https://github.com/novakzx?tab=repositories">
+  <img src="https://img.shields.io/github/stars/novakzx?style=flat-square&label=Stars" />
 </a>
 
 </div>
@@ -100,7 +100,7 @@ My focus is creating products that are:
 
 **Stack:** `Next.js` `TypeScript` `PostgreSQL`
 
-[Live Demo](https://example.com) · [Repository](https://github.com/SEU_USUARIO/project-one)
+[Live Demo]() · [Repository](https://github.com/novakzx/project-one)
 
 ---
 
@@ -186,12 +186,8 @@ My focus is creating products that are:
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/novakzx">
   GitHub
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
-  LinkedIn
 </a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://SEU_PORTFOLIO.com">
