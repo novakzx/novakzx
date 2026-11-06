@@ -2,15 +2,12 @@
 
 # NOVAKZ
 
-### Full-Stack Developer · Creative Developer · Builder
+### Desenvolvedor Full Stack · Next.js · TypeScript · Supabase
 
-Building modern digital experiences with **clean code, strong architecture and immersive interfaces.**
+Construo sites, sistemas de agendamento e aplicações web com **código limpo, arquitetura simples e interfaces bem acabadas.**
 
 <br />
 
-<a href="https://github.com/novakzx">
-  <img src="https://img.shields.io/github/followers/novakzx?style=flat-square&label=Followers" />
-</a>
 <a href="https://github.com/novakzx?tab=repositories">
   <img src="https://img.shields.io/github/stars/novakzx?style=flat-square&label=Stars" />
 </a>
@@ -19,14 +16,14 @@ Building modern digital experiences with **clean code, strong architecture and i
 
 ---
 
-## ABOUT
+## SOBRE
 
-I'm a developer focused on building **modern web applications, SaaS products and interactive digital experiences**.
+Sou desenvolvedor focado em **aplicações web modernas**: sites institucionais, sistemas de agendamento, e-commerce e painéis administrativos.
 
-I enjoy combining engineering with design — from scalable backends and secure architectures to highly polished interfaces and animations.
+Gosto de unir engenharia e design, da modelagem do banco de dados até a interface final.
 
 ```text
-Code → Design → Performance → Experience
+Código → Banco de dados → Desempenho → Experiência
 ```
 
 ---
@@ -41,23 +38,19 @@ Code → Design → Performance → Experience
 
 **Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS**
 
-### Backend
+### Backend e banco de dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
 </p>
 
-**Node.js · Java · Python · PostgreSQL · MongoDB**
+**Node.js · Supabase · PostgreSQL · Prisma**
 
-### Creative Development
+### Desktop
 
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
+**C++ · Qt 6 · SQLite · CMake**
 
-**Three.js · React Three Fiber · GSAP · Framer Motion · WebGL**
-
-### Tools & Infrastructure
+### Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
@@ -67,143 +60,88 @@ Code → Design → Performance → Experience
 
 ---
 
-## WHAT I BUILD
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   SaaS                  Web Applications             │
-│   E-Commerce            Interactive Websites         │
-│   Admin Platforms       APIs & Backends              │
-│   3D Experiences        Creative Development         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-My focus is creating products that are:
-
-- ⚡ Fast
-- 🎯 Intuitive
-- 🔒 Secure
-- 📱 Responsive
-- 🎨 Visually polished
-- 🧩 Scalable
-- 🧼 Maintainable
+## PROJETOS EM DESTAQUE
 
 ---
 
-## FEATURED PROJECTS
+### 01 — Navalha Preta Barbearia
 
-### 01 — Project One
+> Site institucional e sistema de agendamento para uma barbearia. Em produção.
 
-> Modern application built with a production-oriented architecture.
+**Stack:** `Next.js 16` `Tailwind CSS` `Supabase`
 
-**Stack:** `Next.js` `TypeScript` `PostgreSQL`
-
-[Live Demo]() · [Repository](https://github.com/novakzx/project-one)
+[Ver site](https://navalha-preta-barbearia.vercel.app) · [Repositório](https://github.com/novakzx/navalha-preta-barbearia)
 
 ---
 
-### 02 — Project Two
+### 02 — Trem Food
 
-> Interactive digital experience focused on modern UI, motion and performance.
+> Plataforma de e-commerce e encomendas: cardápio, carrinho, checkout com pagamentos online, acompanhamento de pedidos em tempo real e painel de gestão.
 
-**Stack:** `React` `Three.js` `GSAP`
+**Stack:** `Next.js 14` `Prisma` `PostgreSQL` `Stripe`
 
-[Live Demo](https://example.com) · [Repository](https://github.com/SEU_USUARIO/project-two)
-
----
-
-### 03 — Project Three
-
-> Full-stack platform with authentication, database integration and administrative tools.
-
-**Stack:** `Next.js` `Node.js` `PostgreSQL`
-
-[Live Demo](https://example.com) · [Repository](https://github.com/SEU_USUARIO/project-three)
+[Repositório](https://github.com/novakzx/TremFood)
 
 ---
 
-## GITHUB STATS
+### 03 — Caderno+
+
+> Aplicativo desktop para professores organizarem turmas, notas, frequência, horários e relatórios. Funciona totalmente offline.
+
+**Stack:** `C++` `Qt 6` `SQLite`
+
+[Repositório](https://github.com/novakzx/Caderno-)
+
+---
+
+<!-- Radar: incluir somente após confirmar que o projeto pode ser exibido publicamente -->
+
+---
+
+## ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=novakzx&show_icons=true&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novakzx&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true" />
-
-</div>
-
----
-
-## ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&hide_border=true" />
-
-</div>
-
----
-
-## PRINCIPLES
+## PRINCÍPIOS
 
 ```text
-01  Build with purpose.
-02  Keep the architecture simple.
-03  Design is part of the engineering.
-04  Performance matters.
-05  Security is not optional.
-06  Write code other developers can understand.
-07  Always keep learning.
+01  Construir com propósito.
+02  Manter a arquitetura simples.
+03  Design também é engenharia.
+04  Desempenho importa.
+05  Segurança não é opcional.
+06  Escrever código que outros entendam.
+07  Continuar aprendendo.
 ```
 
 ---
 
-## CURRENTLY
+## NO MOMENTO
 
 ```text
-▸ Building       SaaS & Web Applications
-▸ Exploring      3D Web & Creative Development
-▸ Improving      Backend Architecture
-▸ Learning       Security & Scalable Systems
-▸ Interested     Design × Technology
+▸ Construindo    Sites e sistemas web
+▸ Explorando     Next.js, Supabase e Prisma em produção
+▸ Aprendendo     Segurança e arquiteturas escaláveis
 ```
 
 ---
 
-## LET'S CONNECT
+## CONTATO
 
 <div align="center">
 
-<a href="https://github.com/novakzx">
-  GitHub
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://SEU_PORTFOLIO.com">
-  Portfolio
-</a>
+<a href="https://github.com/novakzx">GitHub</a>
 
 <br /><br />
 
-**Building things that look good and work even better.**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Designed & built with code.</sub>
+**Projetos que funcionam bem e são fáceis de manter.**
 
 </div>
