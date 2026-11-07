@@ -1,16 +1,14 @@
 <div align="center">
 
-# NOVAKZ
+# Gabriel de Carvalho
 
 ### Desenvolvedor Full Stack · Next.js · TypeScript · Supabase
 
 Construo sites, sistemas de agendamento e aplicações web com **código limpo, arquitetura simples e interfaces bem acabadas.**
 
-<br />
+Lisboa, Portugal · Aberto a oportunidades como Desenvolvedor Full Stack
 
-<a href="https://github.com/novakzx?tab=repositories">
-  <img src="https://img.shields.io/github/stars/novakzx?style=flat-square&label=Stars" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/gabriel-vinicius-118592449/) · [Instagram](https://instagram.com/biel7.v)
 
 </div>
 
@@ -18,130 +16,102 @@ Construo sites, sistemas de agendamento e aplicações web com **código limpo, 
 
 ## SOBRE
 
-Sou desenvolvedor focado em **aplicações web modernas**: sites institucionais, sistemas de agendamento, e-commerce e painéis administrativos.
+Sou desenvolvedor focado em **aplicações web modernas**: sites institucionais, sistemas de agendamento, e-commerce, painéis administrativos e ferramentas internas para negócios.
 
 Gosto de unir engenharia e design, da modelagem do banco de dados até a interface final.
 
-```text
-Código → Banco de dados → Desempenho → Experiência
-```
+**Código → Banco de dados → Desempenho → Experiência**
 
 ---
 
 ## STACK
 
-### Frontend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
-</p>
+![](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind)
 
-**Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS**
+**Backend e banco de dados**
 
-### Backend e banco de dados
+![](https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
-</p>
+**Desktop**
 
-**Node.js · Supabase · PostgreSQL · Prisma**
+C++ · Qt 6 · SQLite · CMake
 
-### Desktop
+**Ferramentas e testes**
 
-**C++ · Qt 6 · SQLite · CMake**
+![](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode)
 
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
-</p>
-
-**Git · GitHub · Docker · Vercel · Linux · VS Code**
+Playwright · Vitest
 
 ---
 
 ## PROJETOS EM DESTAQUE
 
----
+### 01 · AreaVon Radar
 
-### 01 — Navalha Preta Barbearia
+Plataforma de prospecção comercial: pesquisa empresas por região, identifica as que têm website não encontrado na fonte consultada e prioriza leads com um **Lead Score auditável**, num CRM em kanban com dashboard de métricas.
 
-> Site institucional e sistema de agendamento para uma barbearia. Em produção.
+**Stack:** Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Auth.js · Upstash Redis · Mapbox · Vitest
 
-**Stack:** `Next.js 16` `Tailwind CSS` `Supabase`
+**Destaques técnicos:** autenticação com bcrypt e sessão JWT httpOnly, rate limiting, validação com Zod, logs de auditoria, busca assíncrona em segundo plano e testes unitários da regra de negócio.
+
+[Ver site](https://areavon.vercel.app) · [Repositório](https://github.com/novakzx/Radar)
+
+### 02 · Nails Von
+
+Site de um estúdio de nail design com **marcação online** e painel administrativo privado para gerir marcações, serviços e disponibilidade.
+
+**Stack:** Next.js 14 · TypeScript · Tailwind CSS · Supabase (Postgres, Auth, Row Level Security) · Resend · Web Push / PWA · Playwright (testes E2E)
+
+[Repositório](https://github.com/novakzx/Nails)
+
+### 03 · Navalha Preta Barbearia
+
+Site institucional com formulário de agendamento e painel administrativo protegido, com acesso ao banco feito por funções SECURITY DEFINER no Supabase.
+
+**Stack:** Next.js 16 · Tailwind CSS · Supabase
 
 [Ver site](https://navalha-preta-barbearia.vercel.app) · [Repositório](https://github.com/novakzx/navalha-preta-barbearia)
 
----
+### 04 · Trem Food
 
-### 02 — Trem Food
+Plataforma de e-commerce e encomendas: cardápio, carrinho, checkout com pagamentos online, acompanhamento de pedidos em tempo real e painel de gestão.
 
-> Plataforma de e-commerce e encomendas: cardápio, carrinho, checkout com pagamentos online, acompanhamento de pedidos em tempo real e painel de gestão.
-
-**Stack:** `Next.js 14` `Prisma` `PostgreSQL` `Stripe`
+**Stack:** Next.js 14 · Prisma · PostgreSQL · Stripe
 
 [Repositório](https://github.com/novakzx/TremFood)
 
----
+### 05 · Caderno+
 
-### 03 — Caderno+
+Aplicativo desktop para professores organizarem turmas, notas, frequência, horários e relatórios em PDF. Funciona totalmente offline, com backup automático.
 
-> Aplicativo desktop para professores organizarem turmas, notas, frequência, horários e relatórios. Funciona totalmente offline.
-
-**Stack:** `C++` `Qt 6` `SQLite`
+**Stack:** C++ · Qt 6 · SQLite · CMake · CI com GitHub Actions
 
 [Repositório](https://github.com/novakzx/Caderno-)
 
 ---
 
-<!-- Radar: incluir somente após confirmar que o projeto pode ser exibido publicamente -->
-
----
-
-## ESTATÍSTICAS DO GITHUB
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=novakzx&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novakzx&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## PRINCÍPIOS
 
-```text
-01  Construir com propósito.
-02  Manter a arquitetura simples.
-03  Design também é engenharia.
-04  Desempenho importa.
-05  Segurança não é opcional.
-06  Escrever código que outros entendam.
-07  Continuar aprendendo.
-```
+1. Construir com propósito.
+2. Manter a arquitetura simples.
+3. Design também é engenharia.
+4. Desempenho importa.
+5. Segurança não é opcional.
+6. Escrever código que outros entendam.
+7. Continuar aprendendo.
 
 ---
 
 ## NO MOMENTO
 
-```text
-▸ Construindo    Sites e sistemas web
-▸ Explorando     Next.js, Supabase e Prisma em produção
-▸ Aprendendo     Segurança e arquiteturas escaláveis
-```
+- **Construindo:** sites e sistemas web para negócios
+- **Explorando:** Next.js, Supabase e Prisma em produção
+- **Aprendendo:** segurança e arquiteturas escaláveis
 
 ---
 
 ## CONTATO
 
-<div align="center">
-
-<a href="https://github.com/novakzx">GitHub</a>
-
-<br /><br />
-
-**Projetos que funcionam bem e são fáceis de manter.**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/gabriel-vinicius-118592449/) · [GitHub](https://github.com/novakzx) · [Instagram](https://instagram.com/biel7.v)
